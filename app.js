@@ -34,7 +34,7 @@ startBtn.addEventListener('click',()=>{
         // startBtn.disabled = true
 
     }else{
-        alert('timer in session')
+        alert('Timer in Session Already')
     }
 })
 
